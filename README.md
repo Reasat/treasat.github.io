@@ -1,5 +1,5 @@
-## Website of Md Abul Hayat
-- [https://mahayat.github.io/](https://mahayat.github.io/)
+## Website of Tahsin Reasat
+- [https://reasat.github.io/](https://reasat.github.io/)
  - Static website built with [jemdoc](https://jemdoc.jaboc.net/) and [jemdoc+MathJax](http://www.mit.edu/~wsshin/jemdoc+mathjax.html)
 
 
